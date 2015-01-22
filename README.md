@@ -12,3 +12,7 @@ Documentation:
   - [Button](http://semantic-ui.com/elements/button.html)
 * Collections
   - [Breadcrumb](http://semantic-ui.com/collections/breadcrumb.html)
+* Modules
+  - [Dropdown](http://semantic-ui.com/modules/dropdown.html)
+* Views
+  - [Comment](http://semantic-ui.com/views/comment.html)
